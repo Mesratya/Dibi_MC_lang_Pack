@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": "Ajoute le Dirtybiologistanais"
+  },
+  "language": {
+    "en_dibi": {
+      "name": "Dirtybiologistanais",
+      "region": "Dirtybiologistan",
+      "bidirectional": false
+    }
+  }
+}
